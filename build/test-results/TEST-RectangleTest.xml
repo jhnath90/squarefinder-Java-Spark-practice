@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RectangleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2015-10-27T15:30:11" hostname="Joshs-MBP.carolina.rr.com" time="0.0">
+<testsuite name="RectangleTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2015-10-29T13:14:15" hostname="Joshs-MBP.carolina.rr.com" time="0.001">
   <properties/>
+  <testcase name="area_returnsTheAreaOfTheRectangle_450" classname="RectangleTest" time="0.001"/>
   <testcase name="isSquare_allSidesEqual_true" classname="RectangleTest" time="0.0"/>
   <testcase name="newRectangle_instantiatesCorrectly" classname="RectangleTest" time="0.0"/>
   <testcase name="isSquare_whenNotASquare_false" classname="RectangleTest" time="0.0"/>
